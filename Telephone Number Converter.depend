@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543767506 source:c:\users\micha\documents\cpp projects\telephone number converter\main.cpp
+	<algorithm>
+	<cctype>
+	<functional>
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<bits/stdc++.h>
+
+1543767483 source:c:\users\micha\documents\cpp projects\telephone number converter\resources.rc
+
